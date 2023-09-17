@@ -180,4 +180,12 @@ Hello
 I am bored**
 ```
 
+### ApiRequest to produce events to KafkaTopic
+```powershell
+curl --request POST \
+  --url http://localhost:8081/location/update
+```
+
 Please, make sure your ZooKeeper and Kafka Server is up before running these projects
+
+
