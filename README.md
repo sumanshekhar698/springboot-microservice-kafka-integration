@@ -180,4 +180,4 @@ Hello
 I am bored**
 ```
 
-Also make sure. your ZooKeeperand Kafka Server is up before runing these projects
+Please, make sure your ZooKeeper and Kafka Server is up before running these projects
